@@ -4,6 +4,8 @@ Huaize Ye University of Southern California
 yhz613609@gmail.com huaizeye@usc.edu
 
 ##### [Link to Backend Repo](https://github.com/HuaizeUSC/Stock-Portfolio-Management-Tool)
+##### [Link to Demo Version 1](https://purple-bush-0fbcbce1e.5.azurestaticapps.net/#/register)
+invitation code: spmt666
 
 Tech stack:React, Django, JavaScript, Python, Redux, Tailwind CSS, MySQL, Vite
 
