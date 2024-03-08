@@ -1,8 +1,22 @@
-# React + Vite
+### Stock Portfolio Management Tool Repo of Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Huaize Ye University of Southern California
+yhz613609@gmail.com huaizeye@usc.edu
 
-Currently, two official plugins are available:
+#####[Link to Backend Repo](https://github.com/HuaizeUSC/Stock-Portfolio-Management-Tool)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tech stack:React, Django, JavaScript, Python, Redux, Tailwind CSS, MySQL, Vite
+
+####Function
+#####1.Register and Login
+![Login Page](/demo/Login.png)
+![Register Page](/demo/Register.png)
+#####2.Overview of Stock Market
+![Market Page](/demo/Market.png)
+#####3.Search a Stock with Symbol and View Details of a Stock
+![Stock Details Page](/demo/Stock.png)
+#####4.Favorite a Stock
+![Favorite Page](/demo/Favorite.png)
+#####5.Make a Virtual Trade
+![Trade Page](/demo/Trade.png)
+#####6.Message Bar
